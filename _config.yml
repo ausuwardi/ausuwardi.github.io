@@ -1,0 +1,8 @@
+title: Agustianes U. S.
+description: My GitHub page
+google_analytics: UA-49661515-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
